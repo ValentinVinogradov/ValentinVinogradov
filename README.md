@@ -1,7 +1,16 @@
 [![Header](https://github.com/ValentinVinogradov/ValentinVinogradov/blob/main/assets/tree.gif)](https://github.com/ValentinVinogradov)
 
-about me
+## I'm student and beginner programmer
 
-langs and tools
+### Languages and tools
 
-links
+![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org/)
+![aiogram](https://img.shields.io/pypi/v/aiogram?style=for-the-badge&logo=telegram&logoColor=white&label=aiogram&labelColor=000000&color=000000&link=https://pypi.org/project/aiogram/)
+![java](https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=java&link=java.com)
+![javascript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)
+
+### My contacts
+
+![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me@bebrochkamr)
+![vk](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/ooneheart)
