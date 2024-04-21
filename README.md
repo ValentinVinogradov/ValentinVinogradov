@@ -2,6 +2,8 @@
 
 ## I'm student and beginner programmer
 
+![my github stats](https://github-readme-stats.vercel.app/api?username=ValentinVinogradov&hide=prs,contribs&show_icons=true&theme=dark)
+
 ### Languages and tools
 
 [![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -14,5 +16,3 @@
 
 [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bebrochkamr)
 [![vk](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ooneheart)
-
-![my github stats](https://github-readme-stats.vercel.app/api?username=ValentinVinogradov&hide=prs,contribs&show_icons=true&theme=dark)
