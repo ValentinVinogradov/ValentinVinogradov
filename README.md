@@ -15,5 +15,5 @@
 
 ### My contacts
 
-[![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bebrochkamr)
-[![vk](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ooneheart)
+[![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/naked_angel)
+[![vk](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/naked_angel)
